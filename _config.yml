@@ -1,0 +1,12 @@
+# Site settings
+title: laListaDeRoger
+email: amakenadog@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Boletin de actividades en Leon Nicaragua
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: chichibek
+github_username:  ilmoralito
+
+# Build settings
+markdown: kramdown

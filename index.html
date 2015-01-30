@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+  <img src="/assets/mail.png" alt="" width="20%">
+  <h3 class="page-header" style="margin-top:15px;">{{ site.title }}</h3>
+  <p>
+    Enterate de las actividades de Leon, recive un boletin temprano cada jueves con la informacion categorizada
+    de los eventos de la ciudad universitario.
+  </p>
+
+  <p>
+    Nuestra promesa: Tu email no sera utilizado con otro proposito que el descrito en el parrafo anterior.
+  </p>
+
+  <form action="https://tinyletter.com/chichibek" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/chichibek', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <input type="hidden" value="1" name="embed"/>
+    <div class="form-group">
+      <label for="tlemail" class="sr-only">Enter your email address</label>
+      <input type="text" name="email" id="tlemail" class="form-control" placeholder="Agrega tu email"/>
+    </div>
+    <input type="submit" value="Suscribete" class="btn btn-default" />
+    <br>
+    <small>
+      <a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a>
+    </small>
+  </form>
+</div>
