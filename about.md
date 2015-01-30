@@ -43,7 +43,7 @@ permalink: /about/
 	<p>Sientete libre de comuncarte conmigo al siguiente email <a href="mailto:amakenadog@gmail.com">amakenadog@gmail.com</a></p>
 
 	<p>
-		Si eres programador y deseas usar tus jutsus en mejoras al sitio fork it en
-		<a href="mailto:amakenadog@gmail.com">amakenadog@gmail.com</a> y envia los pull request
+		Si eres programador y deseas usar tus jutsus en mejoras para el sitio fork el repo en
+		<a href="https://github.com/ilmoralito/lalistaderoger.git">lalistaderoger</a> y envia los pull request
 	</p>
 </div>
